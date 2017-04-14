@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\app\build\intermediates\exploded-aar\com.miguelcatalan\materialsearchview\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\app\build\intermediates\pre-dexed\debug\com.miguelcatalan-materialsearchview-1.4.0_a6e02f7e05dc685d51a2a1496a4a26b2551858a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akshay\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\app\build\intermediates\pre-dexed\debug\gson-2.7_967840bb8901cc569ece6bdfa87cd14b09676cbe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_35b5e47405db5afb6d11cb3f6e28cdebd2543335.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_e97884ae649f4113b46d9aa46b75f21e4a6557f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_5169be398b235b4d2d88a1b4e62ed9ae8b6aa5f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_980059126fe4856c475fe656682ea3c8d5e4002c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akshay\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_67043304a8d1c228d3febd39d4c7e60ff4809c47.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_abd26c12b03bd3c1dbd34ad345b08c3e94b45c6d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_55ae4c5122368c0e4c3dc9a5fdb54dc10c322cd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_5c0f0c0923ba0c556fbe0349ed90d17f0ebbc9a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.3.0_26234c5051ee2bfd1924fa66926b20ca2b5692ab.jar" />
+    </item>
+
+</items>
